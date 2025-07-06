@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+-e .
+# This file is used to specify the dependencies for the project.
+# The '-e .' line indicates that the current directory should be treated as a package.
