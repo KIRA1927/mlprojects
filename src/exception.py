@@ -1,5 +1,5 @@
 import sys
-import logging
+from src.logger import logging
 #sys is a built-in module that provides access to some variables used or maintained by the interpreter and to functions that interact with the interpreter.
 def error_message_detail(error, error_detail: sys):
     """
